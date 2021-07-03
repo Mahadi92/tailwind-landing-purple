@@ -19,3 +19,6 @@
 .bg-color-custom {
     background: linear-gradient(to right, #8A49C9, #B260CD);
 }
+footer{
+    background: url(./images//Shape_04.png) center center/cover no-repeat;
+}
