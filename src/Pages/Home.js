@@ -5,7 +5,7 @@ import Packages from '../partials/Packages';
 
 const Home = () => {
     return (
-        <div>
+        <div className="w-full">
             <Header />
             <Packages />
             <Footer />

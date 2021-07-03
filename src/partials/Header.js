@@ -5,6 +5,7 @@ const Header = () => {
     return (
         <header>
             <Navbar />
+            <hr />
 
 
         </header>
