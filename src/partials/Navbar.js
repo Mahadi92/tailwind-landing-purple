@@ -6,7 +6,7 @@ const Navbar = () => {
     const [hideNav, setHideNav] = useState(false)
 
     return (
-        <div className="container px-10 m-auto">
+        <div className="container px-10 m-auto w-full">
             <nav className="flex items-center justify-between px-3 h-14">
                 <div>
                     <img src={brandLogo} className="object-cover md:h-7 h-6" alt="" />

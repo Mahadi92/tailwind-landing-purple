@@ -4,7 +4,7 @@ import headerImage from '../images/image_01.png';
 
 const Header = () => {
     return (
-        <header className="bg-purple-400 h-screen">
+        <header className="bg-purple-400 w-full h-screen">
             <Navbar />
             <hr />
 
