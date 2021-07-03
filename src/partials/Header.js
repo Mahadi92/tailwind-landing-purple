@@ -11,9 +11,9 @@ const Header = () => {
             <section className="text-white flex items-center justify-evenly h-full">
                 <div className="w-2/5">
                     <p className="uppercase">Business workflow</p>
-                    <h1 className="font-bolder font-black text-5xl">Get the most</h1>
-                    <h1 className="font-bolder font-black text-5xl">efficient UI design for</h1>
-                    <h1 className="font-bolder font-black text-5xl">your business now!</h1>
+                    <h1 className="font-black text-5xl">Get the most</h1>
+                    <h1 className="font-black text-5xl">efficient UI design for</h1>
+                    <h1 className="font-black text-5xl">your business now!</h1>
 
                     <p className="py-8 w-4/5">Hire me to design a a clean and modern UI for you product's website.</p>
 
